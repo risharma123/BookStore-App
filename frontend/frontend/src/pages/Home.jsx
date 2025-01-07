@@ -17,9 +17,9 @@ function Home() {
           Discover Book
       </button>
       </div>
-  <div className='w-full h-auto lg:w-3/6 lg:h-[100%] flex items-center justify-center rounded-lg overflow-hidden shadow-md shadow-zinc-500'>
-  <img  src='./photo/bookstore.png.webp' alt="upload file..." className='w-full h-[100%] '/>
-  </div>
+  {/* <div className='flex items-center justify-center rounded-lg overflow-hidden shadow-md shadow-zinc-500'> */}
+  <img  src='./photo/bookstore.png.webp' alt="upload file..." className='md:w-[50%]lg:w-3/6 lg:h-[100%] shadow-md shadow-zinc-500 rounded-lg'/>
+  {/* </div> */}
   </div>
   
 

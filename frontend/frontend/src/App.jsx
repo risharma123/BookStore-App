@@ -8,6 +8,7 @@ import Signin from './pages/Signin'
 import Signup from './pages/Signup'
 import Cart from './pages/Cart'
 import Profile from './pages/Profile'
+import Home from './pages/Home'
 
 function App() {
  
