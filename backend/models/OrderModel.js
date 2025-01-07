@@ -1,5 +1,5 @@
 const mongoose=require('mongoose');
-const orderSchema=new mongoose({
+const orderSchema=new mongoose.Schema({
     user:{
         type:mongoose.Types.ObjectId,
         ref:"userDB"
